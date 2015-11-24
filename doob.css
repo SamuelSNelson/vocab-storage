@@ -1,0 +1,34 @@
+body{
+	font-family: Helvetica;
+}
+div {
+	margin-top: 40px;
+	border-style: solid;
+	border-width: 1px;
+	width: 438px;
+	height: 258px;
+}
+p{
+	margin-top: -5px;
+	margin-bottom: -18px; 
+}
+h2{
+	font-size: 18px;
+	text-align: center;
+	font-weight: bold;
+}
+.title{
+	margin-top: -5px;
+	margin-bottom: 8px;
+	border-color: red;
+}
+h1{
+	text-align: center;
+}
+hr{
+	margin-top: 19px;
+}
+.line-splitter{
+	border-color: transparent;
+	margin-bottom: 2px;
+}
